@@ -1,0 +1,298 @@
+
+@media all and (max-width:1140px){
+	.owl-dots .owl-dot:nth-child(1) {
+	    left: 145px;
+	}
+	.owl-dots .owl-dot:nth-child(2) {
+	    left: 460px;
+	}
+	.owl-dots .owl-dot:nth-child(3) {
+	    right: 142px;
+	}
+	.card-header button.btn.btn-link.btn-block.text-left {
+		font-size: 20px;
+	}
+	.col-lg-6:nth-child(2) .meet-dingle-img img {
+	    height: 272px;
+	}
+}
+
+@media all and (max-width:991px){
+	.logo {
+	    display: -webkit-box;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -webkit-box-pack: justify;
+	        -ms-flex-pack: justify;
+	            justify-content: space-between;
+	    -webkit-box-align: center;
+	        -ms-flex-align: center;
+	            align-items: center;
+	}
+	.header-area-main {
+	    display: inherit;
+	}
+	.nav-icon {
+		display: block;
+	}
+	.nav {
+		overflow: hidden;
+		z-index: 999;
+		padding: 30px 0;
+		position: fixed;
+		top: 0;
+		width: 66%;
+		height: 100%;
+		left: 0;
+		-webkit-transition: 0.6s;
+		-o-transition: 0.6s;
+		transition: 0.6s;
+		background: #1f2326;
+		z-index: 999999999 !important;
+		opacity: 1;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	}
+	.nav ul {
+	    display: block;
+	    margin-top: 40px;
+	    margin-left: 40px;
+	}
+	.nav ul li a {
+	    color: #FFF;
+	    display: inline-block;
+	    padding: 10px 0px;
+	}
+	.canvas-menu {
+		-webkit-transform: translate(-100%,0px);
+		-ms-transform: translate(-100%,0px);
+		    transform: translate(-100%,0px);
+	}
+	.nav ul li {
+		line-height: 30px;
+	}
+	.canvas-menu {
+		-webkit-transform: translate(-100%,0px);
+		-ms-transform: translate(-100%,0px);
+		    transform: translate(-100%,0px);
+	}
+	.banner-desc p {
+	    width: 100%;
+	}
+	.banner-desc h2 {
+	    font-size: 40px;
+	}
+	p{
+	    font-size: 15px;
+	    line-height: 30px;
+	}
+	.banner-area {
+	    padding-top: 220px;
+	    padding-bottom: 250px;
+	    background-size: cover;
+	    background-position: center center;
+	}
+	.about-left h3 {
+	    padding-bottom: 15px;
+	}
+	h3 {
+	    font-size: 30px;
+	}
+	.about-right img {
+     max-height: inherit; 
+	}
+	.grab-you-soon-area {
+	    padding: 40px 10px;
+	}
+	.grab-soon h4 {
+	    font-size: 16px;
+	}
+	.stay-truend small {
+	    font-size: 14px;
+	}
+	.menu-btn a {
+	    font-size: 14px;
+	}
+	.about-area {
+	    padding-top: 70px;
+	    padding-bottom: 70px;
+	}
+	.danching-stry-left p {
+	    text-align: left;
+	    padding-right: 0px;
+	}
+	.owl-carosel-area {
+	    padding-top: 50px;
+	    padding-bottom: 120px;
+	}
+	.owl-dots .owl-dot:nth-child(1) {
+	    left: 48%;
+	}
+	.owl-dots .owl-dot:nth-child(2) {
+	    display: none;
+	}
+	.owl-dots .owl-dot:nth-child(3) {
+	    display: none;
+	}
+	.common-heading4.about-left span {
+	    margin-bottom: 35px;
+	    display: inline-block;
+	}
+	.common-heading4.about-left p {
+	    padding-bottom: 30px;
+	}
+	.owl-carosel-slider-main {
+	    padding-top: 20px;
+	}
+	.owl-theme .owl-nav {
+	    margin-top: 0px;
+	}
+	.col-lg-6:nth-child(2) .meet-dingle-img img {
+	    height: 419px;
+	}
+	.meet-team-right {
+	    padding-left: 0px;
+	    padding-top: 90px;
+	}
+	.meet-the-team-area {
+	    padding: 60px 0px;
+	}
+	.common-heading2 {
+	    text-align: left;
+	    padding-bottom: 0px;
+	}
+	.disco-onwer ul li {
+	    padding: 4px 0px;
+	}
+	.faq-area {
+	    padding-top: 50px;
+	    padding-bottom: 65px;
+	}
+
+	.common-heading4.about-left p {
+	    width: 100%;
+	}
+
+
+
+
+
+}
+
+@media all and (max-width:767px){
+	.logo a img {
+	    width: 100px;
+	}
+}
+
+@media all and (max-width:575px){
+	.banner-area {
+	    padding-top: 150px;
+	    padding-bottom: 100px;
+	    background-size: cover;
+	}
+	#section10 a h2 {
+	    position: relative;
+	    top: -120px;
+	}
+	.about-area {
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+	h3 {
+	    font-size: 20px;
+	}
+	p {
+	    font-size: 14px;
+	    line-height: 28px;
+	}
+	.about-left p {
+	    width: 100%;
+	}
+	.grab-you-soon-area {
+	    -webkit-box-orient: vertical;
+	    -webkit-box-direction: normal;
+	        -ms-flex-direction: column;
+	            flex-direction: column;
+	}
+	.punch-nft.menu-btn {
+	    margin-top: 8px;
+	}
+	.about-left span {
+	    margin-bottom: 0px;
+	}
+	.about-left h3 {
+	    padding-bottom: 10px;
+	}
+	.common-heading {
+	    text-align: center;
+	    padding-bottom: 25px;
+	}
+	.owl-carosel-area {
+	    padding-top: 35px;
+	    padding-bottom: 90px;
+	}
+	.common-heading4.about-left p {
+	    padding-bottom: 20px;
+	}
+	.col-lg-6:nth-child(2) .meet-dingle-img img {
+	    height: auto;
+	}
+	.card-header button.btn.btn-link.btn-block.text-left {
+	    font-size: 17px;
+	}
+	.footer-left p {
+	    text-align: center;
+	    font-size: 14px;
+	    margin-bottom: 25px;
+	}
+	.footer-social ul {
+	    display: -webkit-box;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -webkit-box-pack: center;
+	        -ms-flex-pack: center;
+	            justify-content: center;
+	    -webkit-box-align: center;
+	        -ms-flex-align: center;
+	            align-items: center;
+	    padding-top: 30px;
+	}
+	.footer-social p {
+	    text-align: center;
+	    font-size: 15px;
+	}
+	.owl-carosel-slider-main.slides.slick-dots-thumb.slick-initialized.slick-slider .slide-arrow.next-arrow.slick-arrow {
+	    bottom: -38%;
+	}
+	.owl-carosel-slider-main.slides.slick-dots-thumb.slick-initialized.slick-slider .slide-arrow.prev-arrow.slick-arrow {
+	    bottom: -38%;
+	}
+
+
+}
+
+@media all and (max-width:413px){
+	.banner-desc h2 {
+	    font-size: 33px;
+	}
+	.card-header button.btn.btn-link.btn-block.text-left {
+	    font-size: 15px;
+	}
+	.owl-carosel-area {
+	    padding-top: 35px;
+	    padding-bottom: 120px;
+	}
+}
+
+@media all and (max-width:374px){
+	.nav ul {
+	    display: block;
+	    margin-top: 20px;
+	    margin-left: 10px;
+	}
+}
+
+
+
+
+
